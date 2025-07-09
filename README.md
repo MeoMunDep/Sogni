@@ -1,1 +1,1 @@
-# Sogni
+claim: https://dashboard.sogni.ai/
